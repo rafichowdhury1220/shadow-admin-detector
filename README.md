@@ -1,6 +1,6 @@
 # Shadow Admin Detector
 
-A concise, recruiter-friendly Python project that demonstrates a solution architect's thinking and an IAM engineer's implementation for detecting "shadow admins" — accounts that have effective administrative privileges without an explicit Admin role.
+A concise project that demonstrates a solution architect's thinking and an IAM engineer's implementation for detecting "shadow admins" — accounts that have effective administrative privileges without an explicit Admin role.
 
 ## Highlights
 
