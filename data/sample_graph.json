@@ -1,0 +1,13 @@
+{
+  "users": {
+    "alice": { "roles": ["role_a"] },
+    "bob": { "roles": ["admin_role"] },
+    "carol": { "roles": ["role_b"] }
+  },
+  "roles": {
+    "role_a": { "roles": ["role_c"], "grants": [] },
+    "role_b": { "roles": [], "grants": ["read"] },
+    "role_c": { "roles": [], "grants": ["admin"] },
+    "admin_role": { "roles": [], "grants": ["admin"] }
+  }
+}
