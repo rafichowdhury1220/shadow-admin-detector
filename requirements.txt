@@ -1,0 +1,5 @@
+# No external dependencies required for the minimal demo
+# Add packages here for production features (networkx, graphviz, boto3, google-cloud-iam, etc.)
+
+# Dev / test
+pytest>=7.0
